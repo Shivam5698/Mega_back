@@ -1,0 +1,17 @@
+{
+  "name": "mega_back",
+  "version": "1.0.0",
+  "description": "A mega project on beckend",
+  "keywords": [
+    "javascript",
+    "backend",
+    "chai"
+  ],
+  "license": "ISC",
+  "author": "Shivam Maurya",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
